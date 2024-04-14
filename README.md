@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Zubeyranwar
-- 👀 I’m interested in cyber security and software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web solution for social problem
+- 👋 Hi, I’m Zubeyr Anwar
+- 👀 I’m interested in developing sass products from researching problem statement to deploying final product
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me , you can reach me on my twitter account @zubeyranwar
 
 <!---
