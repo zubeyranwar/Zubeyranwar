@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubeyranwar" alt="zubeyranwar" /></a> </p>
 
-- 🔭 I’m currently working on [Notion Clone](https://github.com/zubeyranwar/PenPal)
+- 🔭 I’m currently working on [Chapa Redesign](https://github.com/zubeyranwar/chapa)
 
 - 📫 How to reach me **zubeyranwar@gmail.com**
 
