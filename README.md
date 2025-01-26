@@ -69,7 +69,10 @@ const anmol = {
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   40 mins         ████████████████████████▓   98.85 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
