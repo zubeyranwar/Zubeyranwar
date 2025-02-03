@@ -69,11 +69,11 @@ const anmol = {
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       34 hrs 46 mins  █████████████████████░░░░   84.47 %
-JavaScript       3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JSON             1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Image (svg)      22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript       35 hrs 44 mins  █████████████████████▒░░░   85.04 %
+JavaScript       3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JSON             1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Bash             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
