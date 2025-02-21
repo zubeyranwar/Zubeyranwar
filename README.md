@@ -65,15 +65,3 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
- <!--START_SECTION:waka-->
-
-```txt
-TypeScript    17 hrs 40 mins  ███████████████████████▓░   94.55 %
-Text          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Kotlin        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSS           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
-<!--END_SECTION:waka-->
