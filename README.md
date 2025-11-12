@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: Zubeyrl](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubeyr-anwar-029b79364/)
+![Linkedin: Zubeyrl](https://img.shields.io/badge/-zubeyr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubeyr-anwar-029b79364/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://zubeyranwar.vercel.app/)
 ### 📫 Like to meet me?
 
